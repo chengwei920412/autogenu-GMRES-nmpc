@@ -1,0 +1,18 @@
+<map id="/github/workspace/include/cgmres/logger.hpp" name="/github/workspace/include/cgmres/logger.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,5,240,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,71,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,49,70,87,67,83,124,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="95,94,149,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,47,135,81,130,79,144,45"/>
+<area shape="rect" id="Node000004" href="$types_8hpp.html" title=" " alt="" coords="119,168,242,193"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,46,179,152,173,153,155,47"/>
+<area shape="rect" id="Node000006" href="$timer_8hpp.html" title=" " alt="" coords="232,94,353,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="190,44,260,84,257,88,187,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="102,241,259,282"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="183,194,183,226,178,226,178,194"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="275,122,214,161,211,157,272,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="266,168,327,193"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="296,120,298,152,292,152,291,120"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="350,168,422,193"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="310,118,360,156,357,160,307,122"/>
+</map>

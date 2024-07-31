@@ -1,0 +1,9 @@
+<map id="/github/workspace/include/cgmres/solver_settings.hpp" name="/github/workspace/include/cgmres/solver_settings.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="197,5,382,46"/>
+<area shape="rect" id="Node000002" href="$multiple__shooting__cgmres__solver_8hpp.html" title=" " alt="" coords="5,94,179,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,56,150,96,148,91,233,51"/>
+<area shape="rect" id="Node000003" href="$single__shooting__cgmres__solver_8hpp.html" title=" " alt="" coords="203,94,376,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,61,292,93,287,93,287,61"/>
+<area shape="rect" id="Node000004" href="$zero__horizon__ocp__solver_8hpp.html" title=" " alt="" coords="399,94,572,150"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="345,51,430,91,428,96,343,56"/>
+</map>
